@@ -7,7 +7,7 @@ const Hero = () => {
   const handleResumeDownload = () => {
     // Create a dummy resume file for demonstration
     const resumeText = `
-JOHN DOE
+Rushang Hajare
 First Year AI-ML Engineering Student
 Email: rushanghajare2005@gmail.com | Phone: +91 9699515644
 LinkedIn: linkedin.in/rushang-hajare | GitHub: github.com/mi-rushang/
