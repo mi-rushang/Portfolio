@@ -5,6 +5,15 @@ import { Button } from "@/components/ui/button";
 const Projects = () => {
   const projects = [
     {
+      title: "AI Study Buddy Bot",
+      description: "An intelligent chatbot built to help students with their studies, providing instant answers, explanations, and study tips using natural language processing.",
+      tech: ["React", "TypeScript", "OpenAI API", "Tailwind CSS"],
+      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+      github: "https://github.com",
+      demo: "https://study-buddy-demo.com",
+      category: "AI/Machine Learning"
+    },
+    {
       title: "Personal Portfolio Website",
       description: "A responsive 3D portfolio website built with React, TypeScript, and Tailwind CSS featuring smooth animations and modern design.",
       tech: ["React", "TypeScript", "Tailwind CSS", "3D Animations"],
