@@ -56,7 +56,7 @@ ACHIEVEMENTS
       <div className="container mx-auto px-4 z-10 text-center">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 font-poppins">
-            Hi, I'm <span className="gradient-text">John Doe</span>
+            Hi, I'm <span className="gradient-text">Rushang Hajare</span>
           </h1>
           
           <h2 className="text-2xl md:text-3xl text-purple-300 mb-8 font-medium">
