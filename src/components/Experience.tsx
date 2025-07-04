@@ -5,7 +5,7 @@ const Experience = () => {
   const experiences = [
     {
       title: "First Year Engineering Student",
-      organization: "University Name",
+      organization: "Zeal College of Engineering and Research, Narhe, Pune",
       period: "2024 - Present",
       type: "Education",
       icon: <BookOpen className="h-6 w-6 text-blue-400" />,
