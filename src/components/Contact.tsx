@@ -29,19 +29,19 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-purple-400" />,
       title: "Email",
-      value: "john.doe@email.com",
-      link: "mailto:john.doe@email.com"
+      value: "rushanghajare2005@gmail.com",
+      link: "mailto:rushanghajare2005@gmail.com"
     },
     {
       icon: <Phone className="h-6 w-6 text-cyan-400" />,
       title: "Phone",
-      value: "+1 (123) 456-7890",
-      link: "tel:+11234567890"
+      value: "+91 9699515644",
+      link: "tel:+919699515644"
     },
     {
       icon: <MapPin className="h-6 w-6 text-green-400" />,
       title: "Location",
-      value: "University City, State",
+      value: "Pune, India",
       link: "#"
     }
   ];
@@ -50,19 +50,19 @@ const Contact = () => {
     {
       icon: <Github className="h-6 w-6" />,
       name: "GitHub",
-      url: "https://github.com",
+      url: "https://github.com/mi-rushang",
       color: "hover:text-purple-400"
     },
     {
       icon: <Linkedin className="h-6 w-6" />,
       name: "LinkedIn",
-      url: "https://linkedin.com",
+      url: "https://linkedin.com/rushang-hajare",
       color: "hover:text-blue-400"
     },
     {
       icon: <Mail className="h-6 w-6" />,
       name: "Email",
-      url: "mailto:john.doe@email.com",
+      url: "mailto:rushanghajare2005@gmail.com",
       color: "hover:text-green-400"
     }
   ];
