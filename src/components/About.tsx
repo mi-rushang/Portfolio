@@ -33,9 +33,10 @@ const About = () => {
             About Me
           </h2>
           <p className="text-lg text-gray-300 max-w-3xl mx-auto leading-relaxed">
-            I'm a first-year engineering student with a passion for technology and innovation. 
-            Currently building my foundation in computer science while exploring various domains 
-            of engineering and software development.
+           I’m a first-year AI and Machine Learning engineering student passionate
+           about technology and innovation. I’m currently strengthening my foundation
+           in computer science while exploring diverse areas of artificial intelligence,
+           machine learning, and software development.
           </p>
         </div>
         
@@ -44,7 +45,7 @@ const About = () => {
             <h3 className="text-2xl font-semibold text-purple-300 mb-4">My Journey So Far</h3>
             <p className="text-gray-300 leading-relaxed">
               As a first-year engineering student, I'm at the exciting beginning of my technical journey. 
-              I've been diving deep into programming fundamentals, exploring web development, and 
+              I've been diving deep into programming fundamentals, exploring Artificial Intelligence, and 
               working on small projects that challenge me to think creatively.
             </p>
             <p className="text-gray-300 leading-relaxed">
