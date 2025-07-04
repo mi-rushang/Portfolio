@@ -41,7 +41,7 @@ ACHIEVEMENTS
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'John_Doe_Resume.txt';
+    a.download = 'Rushang_Hajare_Resume.txt';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
