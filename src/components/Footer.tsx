@@ -52,10 +52,10 @@ const Footer = () => {
           {/* Right Section */}
           <div className="text-center md:text-right">
             <p className="text-gray-400 text-sm flex items-center justify-center md:justify-end">
-              Made with <Heart className="h-4 w-4 text-red-400 mx-1" /> and lots of coffee
+              Made with <Heart className="h-4 w-4 text-red-400 mx-1" /> and lots of Love
             </p>
             <p className="text-gray-500 text-xs mt-2">
-              © {currentYear} John Doe. All rights reserved.
+              © {currentYear} Rushang Hajare. All rights reserved.
             </p>
           </div>
         </div>
