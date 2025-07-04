@@ -8,33 +8,29 @@ const Hero = () => {
     // Create a dummy resume file for demonstration
     const resumeText = `
 JOHN DOE
-First Year Engineering Student
-Email: john.doe@email.com | Phone: (123) 456-7890
-LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+First Year AI-ML Engineering Student
+Email: rushanghajare2005@gmail.com | Phone: +91 9699515644
+LinkedIn: linkedin.in/rushang-hajare | GitHub: github.com/mi-rushang/
 
 EDUCATION
-Bachelor of Engineering (Computer Science) - Expected 2028
-University Name - Current GPA: 3.8/4.0
+Bachelor in Technology (AI-ML) -  2028
+Zeal College of Engineering and Research, Narhe, Pune - Current GPA: 9.40/10.00
 
 TECHNICAL SKILLS
-• Programming Languages: Python, C++, JavaScript
-• Web Technologies: HTML, CSS, React
-• Tools: Git, VS Code, Arduino IDE
-• Databases: MySQL basics
+• Programming Languages: Python,Html, CSS
 
 PROJECTS
-1. Personal Portfolio Website (2024)
-   - Built responsive portfolio using React and Tailwind CSS
-   - Implemented 3D animations and modern UI/UX design
+1. AI Study Buddy Bot (2025)
+   - Built with Python 
+   - Answer user questions integrated to Telegram
 
-2. Simple Calculator App (2024)
-   - Developed using Python with GUI interface
-   - Implemented basic arithmetic operations
+2. AI Gita Bot (2025)
+   - Developed using Python 
+   - Answer user questions integrated to Telegram
 
 EXPERIENCE
 • Active participant in university coding club
-• Completed online courses in web development
-• Volunteer tutor for high school students in mathematics
+• Completed online courses in Generative AI
 
 ACHIEVEMENTS
 • Dean's List - First Semester
@@ -69,7 +65,7 @@ ACHIEVEMENTS
           
           <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto mb-12 leading-relaxed">
             Passionate about technology and innovation. Currently exploring the world of 
-            software development, web technologies, and engineering principles. 
+            Artificial Inteligence, Machine Learning, and engineering principles. 
             Always eager to learn and create something amazing!
           </p>
           
@@ -93,7 +89,7 @@ ACHIEVEMENTS
           {/* Social Links */}
           <div className="flex justify-center space-x-6">
             <a 
-              href="https://github.com" 
+              href="https://github.com/mi-rushang" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-purple-400 transition-colors duration-300 transform hover:scale-110"
@@ -101,7 +97,7 @@ ACHIEVEMENTS
               <Github className="h-8 w-8" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://linkedin.com/rushang-hajare/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-purple-400 transition-colors duration-300 transform hover:scale-110"
@@ -109,7 +105,7 @@ ACHIEVEMENTS
               <Linkedin className="h-8 w-8" />
             </a>
             <a 
-              href="mailto:john.doe@email.com"
+              href="mailto:rushanghajare2005@gmail.com"
               className="text-gray-400 hover:text-purple-400 transition-colors duration-300 transform hover:scale-110"
             >
               <Mail className="h-8 w-8" />
