@@ -9,7 +9,7 @@ const Hero = () => {
     const resumeText = `
 Rushang Hajare
 First Year AI-ML Engineering Student
-Email: rushanghajare2005@gmail.com | Phone: +91 9699515644
+Email:  | Phone: 
 LinkedIn: linkedin.in/rushang-hajare | GitHub: github.com/mi-rushang/
 
 EDUCATION
